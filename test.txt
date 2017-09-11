@@ -7,3 +7,5 @@ add new line for rebase
 test for rebase
 
 add line 4 for rebase
+
+addd lin e2 for merge 
