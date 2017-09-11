@@ -9,3 +9,5 @@ test for rebase
 add line 4 for rebase
 
 addd lin e2 for merge 
+
+add line 4 for merge
